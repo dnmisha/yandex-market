@@ -1,0 +1,21 @@
+{
+    "name": "vysochin/yii2-yamarket",
+    "description": "Extension for yandex market api",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Misha Vysochin",
+            "email": "mishavysochin@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "vysochin\\yamarket\\": ""
+        }
+    }
+}
